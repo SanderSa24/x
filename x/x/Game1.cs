@@ -13,7 +13,7 @@ namespace x
 {
     /// <summary>
     /// This is the main type for your game
-    /// </summary>lllkk
+    /// </summary>lllkkkkkkkkkkkk
     public class Game1 : Microsoft.Xna.Framework.Game
     {
         GraphicsDeviceManager graphics;
